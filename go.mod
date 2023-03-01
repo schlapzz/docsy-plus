@@ -1,4 +1,4 @@
-module github.com/acend/docsy-plus
+module github.com/schlapzz/docsy-plus
 
 go 1.18
 
