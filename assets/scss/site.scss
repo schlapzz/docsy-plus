@@ -1,6 +1,14 @@
 /* import variables from docsy */
 @import 'variables';
 
+.alert{
+ background: red;   
+}
+
+.alert-primary{
+ background: blue;   
+}
+
 /* copy button */
 .highlight {
     position: relative;
